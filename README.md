@@ -1,0 +1,1 @@
+Semantic Labeling: One of the major topics in photogrammetry is the automated extraction of urban objects from data acquired by airborne sensors. Using Postdam city dataset, I develop a model that classifies from areal images road, building, car, tree, grass and constriction area. For this problem to solve I used Image Segmentation technique.
